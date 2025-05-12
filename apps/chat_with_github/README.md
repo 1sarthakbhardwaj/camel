@@ -1,4 +1,3 @@
-````markdown
 # 🤖 GitHub Repo Chat Explorer
 
 A Streamlit-based chat interface powered by **CAMEL-AI** and **MCP (Model Context Protocol)** that lets you conversationally explore any GitHub repository. Ask questions like "How many files?", "Show me the README contents", or follow-up queries—all in context of the chosen repo.
@@ -113,4 +112,4 @@ Gitingest/
 ---
 
 *Happy repo chatting!*  
-````
+
